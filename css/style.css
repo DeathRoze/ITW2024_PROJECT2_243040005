@@ -110,13 +110,13 @@ body {
 
 .hero .content h1 {
   font-size: 3.7em;
-  color: #ffffff;
+  color: white;
   text-shadow: 0 0 10px black, 0 0 10px black, 0 0 60px black, 0 0 50px black, 0 0 5px rgb(0, 0, 0);
   line-height: 1.2;
 }
 
-.hero .content h1 span {
-  color: var(--primary);
+.hero .content h1.span {
+  color: red;
 }
 
 .hero .content .cta {
